@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "megalovania:block/ground_megaza_flesh_block"
+  }
+}

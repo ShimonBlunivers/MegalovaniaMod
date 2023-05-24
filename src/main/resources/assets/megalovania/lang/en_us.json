@@ -1,0 +1,29 @@
+{
+  "item.megalovania.cejl": "Cejl",
+  "item.megalovania.raw_cejl": "Raw Cejl",
+  "item.megalovania.cikan": "Cikan",
+  "item.megalovania.raw_cikan": "Raw Cikan",
+
+  "block.megalovania.cejl_block": "Cejl Block",
+  "block.megalovania.cejl_ore": "Cejl Ore",
+  "block.megalovania.cikan_block": "Cikan Block",
+  "block.megalovania.cikan_ore": "Cikan Ore",
+
+  "block.megalovania.oil_extractor": "Oil Extractor",
+
+
+
+  "item.megalovania.megaza_oil": "Megaza Oil",
+
+
+  "item.megalovania.ground_megaza_flesh": "Ground Megaza Flesh",
+
+  "block.megalovania.ground_megaza_wood": "Ground Megaza Wood",
+  "block.megalovania.ground_megaza_leaves": "Ground Megaza Leaves",
+  "block.megalovania.ground_megaza_flesh_block": "Ground Megaza Flesh Block",
+
+
+
+  "creativemodetab.megalit_tab": "Megalit Fraction",
+  "creativemodetab.cajti_tab": "Cajti Fraction"
+}

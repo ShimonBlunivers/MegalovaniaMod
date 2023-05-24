@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "megalovania:cejl_block",
+    "megalovania:cejl_ore",
+    "megalovania:cikan_block",
+    "megalovania:cikan_ore",
+    "megalovania:oil_extractor"
+  ]
+}

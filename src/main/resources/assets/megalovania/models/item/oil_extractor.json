@@ -1,0 +1,11 @@
+{
+  "parent": "megalovania:block/oil_extractor",
+  "display": {
+    "ground": {
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_righthand": {
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

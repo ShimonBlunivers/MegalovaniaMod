@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "megalovania:cejl_block",
+    "megalovania:cejl_ore",
+    "megalovania:cikan_block",
+    "megalovania:cikan_ore",
+    "megalovania:ground_megaza_wood",
+    "megalovania:ground_megaza_flesh_block",
+    "megalovania:oil_extractor"
+  ]
+}

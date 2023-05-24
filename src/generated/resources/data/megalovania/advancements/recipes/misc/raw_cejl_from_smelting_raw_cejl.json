@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_cejl": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "megalovania:raw_cejl"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "megalovania:raw_cejl_from_smelting_raw_cejl"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_cejl",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "megalovania:raw_cejl_from_smelting_raw_cejl"
+    ]
+  }
+}

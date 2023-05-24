@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "cikan",
+  "ingredient": {
+    "item": "megalovania:raw_cikan"
+  },
+  "result": "megalovania:raw_cikan"
+}
